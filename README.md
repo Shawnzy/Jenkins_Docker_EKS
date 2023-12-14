@@ -33,6 +33,3 @@ This repository contains a Jenkins pipeline for continuous integration and deplo
 
 ## Contributions
 Contributions to this pipeline are welcome. Please follow the standard pull request process.
-
-## License
-[MIT License](LICENSE)
